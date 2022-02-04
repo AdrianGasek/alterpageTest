@@ -18,7 +18,7 @@ export function solveAction(context: actionContext) {
       result = calculateByContext('multiply', inputValues);
       break;
     default:
-            result = 'Wrong input data';
+      result = 'Wrong input data';
   }
   document.querySelector<HTMLInputElement>('#output').setAttribute('value', `${result}`);
 }
