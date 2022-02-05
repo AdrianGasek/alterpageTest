@@ -12,3 +12,5 @@ npm run build
 Test
 npm test
 
+Develop
+npm start
