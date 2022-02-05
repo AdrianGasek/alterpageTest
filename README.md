@@ -9,8 +9,8 @@ Transpile TS code to JS in dist/ folder. Maps included.
 
 npm run build
 
-Test
+Test:
 npm test
 
-Develop
+Develop:
 npm start
